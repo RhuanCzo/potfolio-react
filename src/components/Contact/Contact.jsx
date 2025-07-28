@@ -42,13 +42,13 @@ export const Contact = () => {
             <div className="contact-section">
                 <div className="contact-left">
                     <h1>Lets talk</h1>
-                    <p>i am currently avaliable to take on new projectrs, so feel free</p>
+                    <p>i am currently avaliable to take on new projects, so feel to send me a message about anything that you want me to work on. You can contact anytime.</p>
                     <div className="contact-details">
                         <div className="contact-detail">
-                            <img src={mail_icon} alt="" /><p>gabrielcardozo@gmail.com</p>
+                            <img src={mail_icon} alt="" /><p>pccardozo2911@gmail.com</p>
                         </div>
                         <div className="contact-detail">
-                            <img src={call_icon} alt="" /><p>11 9999999</p>
+                            <img src={call_icon} alt="" /><p>11 99294-4737</p>
                         </div>
                         <div className="contact-detail">
                             <img src={location_icon} alt="" /> <p>SP, Brazil</p>
