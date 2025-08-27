@@ -9,7 +9,7 @@ export const Footer = () => {
             <div className="footer-top">
                 <div className="footer-top-left">
                     <h2>Rhuan</h2>
-                    <p>FullStack develoer from, Brazil with 5years of experience in companies</p>
+                    <p>FullStack developer from, Brazil with 5 years of experience in companies</p>
                 </div>
                 <div className="footer-top-right">
                     <div className="footer-email-input">
