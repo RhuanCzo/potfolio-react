@@ -23,7 +23,7 @@ export const About = () => {
                         <div className="div about-skill"><p>HTML & CSS</p><hr style={{ width: "60%" }} /></div>
                         <div className="div about-skill"><p>React JS</p><hr style={{ width: "80%" }} /></div>
                         <div className="div about-skill"><p>JavaScrypt</p><hr style={{ width: "80%" }} /></div>
-                        <div className="div about-skill"><p>Next JS</p><hr style={{ width: "70%" }} /></div>
+                        <div className="div about-skill"><p>Next JS</p><hr style={{ width: "50%" }} /></div>
                     </div>
                 </div>
             </div>
