@@ -72,7 +72,7 @@
     .services{
         align-items: start;
         gap:70px;
-        margin: 20px 70px;
+        margin: 20px 20px;
     }
     .service-title h1{
         padding: 0;
@@ -85,6 +85,7 @@
     .services-format{
         gap: 20px;
         padding: 32px;
+        width: 90px;
     }
     .services-format h2{
         font-size:28px

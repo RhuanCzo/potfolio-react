@@ -156,6 +156,7 @@
 
     .about-achievements {
         justify-content: space-between;
+        width: 300px;
     }
 
     .about-achievement {
